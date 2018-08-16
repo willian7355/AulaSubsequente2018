@@ -1,4 +1,6 @@
-<form action= "exemplo3.php" method = "post">
+<!--github.com/rafaelflorindo/AulaSubsequente2018-->	
+
+<form action = "exemplo3.php" method = "post">
 	<label for="nome">Informe o nome: </label>
 	<input type="text" name="nome" id="nome"/><br /><br />
 	
